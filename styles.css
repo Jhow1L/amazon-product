@@ -17,7 +17,7 @@ body {
 .container{
     display: flex;
     justify-content: space-around;
-    margin: 5px 20px 0 20px;
+    margin: 5px auto 0 auto;
 }
 
 .card-product{
